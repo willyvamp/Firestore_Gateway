@@ -1,2 +1,2 @@
 # Firestore_Gateway
-ESP8266 + Cloud Firestore
+ESP8266 + LoRa SX1278 + Cloud Firestore
